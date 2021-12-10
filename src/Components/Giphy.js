@@ -1,4 +1,5 @@
 import React, {useState, useEffect} from "react";
+import "./Searchbox.css";
 
 const apiKey = "KzIgBM6MqHiEIsR2rL1iWTkWCAiGKR2B";
 

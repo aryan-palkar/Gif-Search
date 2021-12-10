@@ -1,4 +1,3 @@
-import Searchbox from './Components/Searchbox';
 import Giphy from './Components/Giphy'
 
 function App() {
